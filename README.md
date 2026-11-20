@@ -36,15 +36,6 @@ python app.py
 
 Then open `http://127.0.0.1:5000`.
 
-## Project Structure
-
-```
-├── app.py                      # Flask app
-├── templates/index.html        # Frontend page
-├── static/style.css            # Styles
-├── StableDiffusionImage.ipynb  # Image generation notebook
-└── requirements.txt
-```
 
 ## Tech Stack
 
